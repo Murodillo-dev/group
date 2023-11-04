@@ -26,12 +26,42 @@
 
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 .header__img{
     width: 100px;
     height: 100px;
     margin-left: 700px;
 =======
+=======
+
+.header__text{
+    width: 1200px;
+    height: 500px;
+    border: 1px solid black;
+    background-color: teal;
+    display: flex;
+   justify-content: space-around;
+    align-items: center;
+    margin: auto;
+
+}
+.header__left{
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    
+
+}
+.header__right{
+    width: 300px;
+    height: 300px ;
+    border: 1px solid red;
+
+
+}
+
+>>>>>>> c2d62ec4acdf9a83e726cf4c4416c31b6643acf9
 .footer{
     width: 100%;
     height: 100px;
@@ -62,4 +92,7 @@ p{
     text-align: center;
     font-size: 50px;
 }
+<<<<<<< HEAD
 >>>>>>> 1b21d1eaf8bf109eedb42a166e59e113331e46a3
+=======
+>>>>>>> c2d62ec4acdf9a83e726cf4c4416c31b6643acf9
