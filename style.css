@@ -50,4 +50,9 @@ p{
     text-align: center;
     font-size: 50px;
 }
+.linear{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    background-image: linear-gradient(to right, red,black,blue,yellow);}
 
