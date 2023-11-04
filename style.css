@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    width: 1200px;
+    height: 100px;
+    padding: 0 25px;
+    box-sizing: border-box;
+    background-color: indigo;
+    margin: 50px auto;
+}
+
+.navbar ul{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    list-style: none;
+    justify-content: space-between;
+}
+.navbar ul li a{
+    text-decoration: none;
+    font-size: 35px;
+    color: white;
+
+}
