@@ -25,7 +25,27 @@
     color: white;
 
 }
+<<<<<<< HEAD
 audio{
     background-color: blue;
     color: blueviolet;
+=======
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: teal;
+    box-sizing: border-box;
+}
+.foot-nav ul{
+    list-style: none;
+}
+.foot-nav ul li a{
+    text-decoration: none;
+    font-size: 35px;
+    color: white;
+    float: left;
+    width: 240px;
+    
+
+>>>>>>> 06844817aeb0a92ceaa56ad609e1b80543e38f77
 }
